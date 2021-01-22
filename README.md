@@ -4,6 +4,7 @@
 </p>
 
 
+
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
 <a href="#"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
@@ -11,10 +12,12 @@
 </p>
 
 
+
 <p align="center">					    
 <a href="#"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
 <a href="#"><img src="https://img.shields.io/badge/django-47474f.svg?style=for-the-badge&logo=django&logoColor=black&labelColor=ffffff" alt="django"></a>
 </p>
+
 
 
 <p align="center">
@@ -24,12 +27,14 @@
 </p>
 
 
+
 <p align="center">
 <a href="#">
 <img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
 </a>
 <a href="#"><img src="https://img.shields.io/badge/vim-darkgreen.svg?style=for-the-badge&logo=vim&logoColor=darkgreen&labelColor=ffffff" alt="vim"></a>
 </p>
+
 
 
 <p align="center">
@@ -41,7 +46,7 @@ A few notes:
 
 - 🔭 I just finished DialedIn - a LinkedIn profile optimizer that can improve your presence on LinkedIn!
 - 🌱 I’m currently learning Socket.io and native websockets to make real-time card games with video chat capabilities.
-- 🌱 I’m currently working on a Truth or Dare application in Firebase and Firestore with twilio video api, django, and react.
+- *I’m currently working on a Truth or Dare application in Firebase and Firestore with twilio video api, django, and react.*
 
 
 
