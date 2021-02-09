@@ -6,6 +6,7 @@
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
 <a href="#"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
+ <a href="#"><img src="https://img.shields.io/badge/TS-green.svg?style=for-the-badge&logo=typescriptt&logoColor=green&labelColor=ffffff" alt="typescript"></a>
 <a href="#"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
 </p>
 
