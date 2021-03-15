@@ -37,10 +37,10 @@
 A few notes:
 
 - 🔭 I just finished DialedIn - a LinkedIn profile optimizer that can improve your presence on LinkedIn!
-- 🌱 I’m currently learning Socket.io and native websockets to make real-time card games with video chat capabilities.
-- I’m currently working on a Truth or Dare application in Firebase and Firestore with twilio video api, django, and react.
-- Interested in learning a statically typed language, like Java!
+- 🌱 I’m currently learning Angular and using a MEAN stack to build scalable SPAs
+- 🧐 Interested in learning a statically typed language, like Java- but in the meantime I am getting familiar with TypeScript!
 
+- 👊 Newest blog post here https://grandorimichael.medium.com/should-html-parsing-in-browsers-be-standardized-50f5012ae9f7
 
 
 [![Manthony's github stats](https://github-readme-stats.vercel.app/api?username=manthonyg&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
