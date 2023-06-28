@@ -41,5 +41,3 @@ A few notes:
 
 - 👊 Newest blog post here https://grandorimichael.medium.com/should-html-parsing-in-browsers-be-standardized-50f5012ae9f7
 
-
-[![Manthony's github stats](https://github-readme-stats.vercel.app/api?username=manthonyg&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
