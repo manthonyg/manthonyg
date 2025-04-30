@@ -8,15 +8,8 @@
 <a href="#"><img src="https://img.shields.io/badge/GO-f5f542.svg?style=for-the-badge&logo=golang&logoColor=f5f542&labelColor=ffffff" alt="golang"></a>
  <a href="#"><img src="https://img.shields.io/badge/TS-green.svg?style=for-the-badge&logo=typescriptt&logoColor=green&labelColor=ffffff" alt="typescript"></a>			    
 <a href="#"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
+ <a href="#"><img src="https://img.shields.io/badge/aws-61DAFB.svg?style=for-the-badge&logo=aws&logoColor=61DAFB&labelColor=ffffff" alt="aws"></a>
 <a href="#"><img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql"></a>
-
-</p>
-
-<p align="center">
-<a href="#">
-<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
-</a>
-<a href="#"><img src="https://img.shields.io/badge/vim-darkgreen.svg?style=for-the-badge&logo=vim&logoColor=darkgreen&labelColor=ffffff" alt="vim"></a>
 </p>
 
 
