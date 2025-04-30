@@ -12,8 +12,8 @@
 
 <p align="center">					    
 <a href="#"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
-<a href="#"><img src="https://img.shields.io/badge/django-47474f.svg?style=for-the-badge&logo=django&logoColor=black&labelColor=ffffff" alt="django"></a>
- <a href="#"><img src="https://img.shields.io/badge/angular-red.svg?style=for-the-badge&logo=angular&logoColor=red&labelColor=ffffff" alt="angular"></a>
+<a href="#"><img src="https://img.shields.io/badge/go-47474f.svg?style=for-the-badge&logo=django&logoColor=black&labelColor=ffffff" alt="django"></a>
+ <a href="#"><img src="https://img.shields.io/badge/python-red.svg?style=for-the-badge&logo=angular&logoColor=red&labelColor=ffffff" alt="angular"></a>
 </p>
 
 <p align="center">
