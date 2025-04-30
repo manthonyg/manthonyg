@@ -3,14 +3,9 @@
  <a href="https://www.linkedin.com/in/michael-grandori/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
-<a href="#"><img src="https://img.shields.io/badge/GO-f5f542.svg?style=for-the-badge&logo=golang&logoColor=f5f542&labelColor=ffffff" alt="golang"></a>
- <a href="#"><img src="https://img.shields.io/badge/TS-green.svg?style=for-the-badge&logo=typescriptt&logoColor=green&labelColor=ffffff" alt="typescript"></a>			    
-<a href="#"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
- <a href="#"><img src="https://img.shields.io/badge/aws-61DAFB.svg?style=for-the-badge&logo=aws&logoColor=61DAFB&labelColor=ffffff" alt="aws"></a>
-<a href="#"><img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql"></a>
-</p>
+**Tech Stack:**  
+🟡 Python &nbsp;&nbsp; 🔵 Go &nbsp;&nbsp; 🟢 TypeScript &nbsp;&nbsp; ⚛️ React &nbsp;&nbsp; ☁️ AWS &nbsp;&nbsp; 🐘 PostgreSQL
+
 
 
 A few notes:
