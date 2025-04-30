@@ -5,21 +5,12 @@
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
-<a href="#"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
- <a href="#"><img src="https://img.shields.io/badge/TS-green.svg?style=for-the-badge&logo=typescriptt&logoColor=green&labelColor=ffffff" alt="typescript"></a>
-<a href="#"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
-</p>
-
-<p align="center">					    
+<a href="#"><img src="https://img.shields.io/badge/GO-f5f542.svg?style=for-the-badge&logo=go&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
+ <a href="#"><img src="https://img.shields.io/badge/TS-green.svg?style=for-the-badge&logo=typescriptt&logoColor=green&labelColor=ffffff" alt="typescript"></a>			    
 <a href="#"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
-<a href="#"><img src="https://img.shields.io/badge/go-47474f.svg?style=for-the-badge&logo=django&logoColor=black&labelColor=ffffff" alt="django"></a>
  <a href="#"><img src="https://img.shields.io/badge/python-red.svg?style=for-the-badge&logo=angular&logoColor=red&labelColor=ffffff" alt="angular"></a>
-</p>
-
-<p align="center">
 <a href="#"><img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql"></a>
-<a href="#"><img src="https://img.shields.io/badge/mongodb-black.svg?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=ffffff" alt="github"></a>
-<a href="#"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
+
 </p>
 
 <p align="center">
