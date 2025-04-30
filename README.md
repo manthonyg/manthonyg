@@ -20,10 +20,6 @@
 <a href="#"><img src="https://img.shields.io/badge/vim-darkgreen.svg?style=for-the-badge&logo=vim&logoColor=darkgreen&labelColor=ffffff" alt="vim"></a>
 </p>
 
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
-<a href="#"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
-</p><br>
 
 A few notes:
 - 🔭I am working on autofill.d - a AWS cloud infrastructure based project that utilizes OpenAI and LLM along with a Chrome extension to allow "blocks" of resume data to be swapped in and out while applying for jobs, allowing you a quicker more pain free way to tweak your resume.
